@@ -1,12 +1,8 @@
 <a aria-label="health" href="https://codescene.com/" rel="nofollow">
-    <img alt="" src="https://github.com/ccemerdem/badges/blob/4707189bd2a58ffa7c51cbf81d6de8e42ee05c2f/v1.png"> </a><br> 
+    <img alt="" src="https://github.com/ccemerdem/badges/blob/5022061cee70048f04c396f7769758934c5ed595/v1.png"width="130" height="30" > </a><br> 
 
 <a aria-label="health" href="https://codescene.com/" rel="nofollow">
-    <img alt="" src="https://github.com/ccemerdem/badges/blob/4707189bd2a58ffa7c51cbf81d6de8e42ee05c2f/v2.png"> </a><br> 
+    <img alt="" src="https://github.com/ccemerdem/badges/blob/5022061cee70048f04c396f7769758934c5ed595/v2.png" width="130" height="30" > </a><br> 
 
 <a aria-label="health" href="https://codescene.com/" rel="nofollow">
-    <img alt="" src="https://github.com/ccemerdem/badges/blob/4707189bd2a58ffa7c51cbf81d6de8e42ee05c2f/v3.png"> </a><br> 
-
- <a aria-label="health" href="https://codescene.com/" rel="nofollow">
-        <img class="resized-img" alt="" src="https://github.com/ccemerdem/badges/blob/7e036f4175eab2b7f304d88e2f3b34c41465f230/github-badges.png" width="130" height="30">
-    </a>
+    <img alt="" src="https://github.com/ccemerdem/badges/blob/5022061cee70048f04c396f7769758934c5ed595/v3.png" width="130" height="30" > </a><br> 
