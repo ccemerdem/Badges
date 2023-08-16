@@ -1,15 +1,16 @@
-## Step 1:
- Create a public repository or an issue  and upload your image to it. 
-## Step 2 for the repository:         Step 2 for the issue (recommended):
- Click on the uploaded image, press the three                                   Right after you upload the image, you will see a URL.  <br> dots in the right corner, and choose the "Copy permalink" option.                                                    After copying the URL, you can close the tab. 
+## Step 1 for the "issue" path (recommended):
+Enter the "issues" tab. Click "New issue" then upload your image by drag and drop. Right after the image is uploaded, you will see a URL. <br> After copying the URL, you can close the tab. 
 
- ## Step 3:
-  *Fill the code :*
+## Step 1 for the "repository" path:
+Create a public "repository" then click on the uploaded image, press the three dots in the right corner, and choose the "Copy permalink" option.  
+
+## Step 3:
+*Fill the code :*
 ```
 <a href="URL that you want to be redirected to when clicked (optional)" rel="nofollow">
 <img alt="" src="URL of your image uploaded to GitHub" width="130" height="30"> </a>
 ```
- When you paste this code to the "README.md". It will be an image.     
+When you paste this code to the "README.md". It will be an image.     
 # Examples:
  *Clickable :*             <a  href="https://github.com/" rel="nofollow">
     <img alt="" src="https://github.com/ccemerdem/badges/blob/d7206826c5580e8c94ef94887d7058b49892fc64/v1.3.png" width="130" height="30" > </a>
