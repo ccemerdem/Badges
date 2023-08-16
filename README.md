@@ -10,8 +10,7 @@ Upload your image publicly to GitHub
 ### Example
 ```
 <a aria-label="health" href="https://codescene.com/" rel="nofollow">
-<img alt="" src="https://github.com/ccemerdem/badges/blob/d7206826c5580e894887d70b49892fc64/v1.2.png" width="130" height="30" >
-</a>
+<img alt="" src="https://github.com/ccemerdem/badges/blob/d7206826894887d70b49892fc64/v1.2.png" width="130" height="30" > </a>
 ```
 
 
