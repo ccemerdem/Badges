@@ -1,9 +1,9 @@
-## Step 1;
+## Step 1:
  Create a public repository or an issue  and upload your image to it. 
-## Step 2 for the repository;                                             Step 2 for the issue (recommended);
+## Step 2 for the repository:                                             Step 2 for the issue (recommended):
  Click on the uploaded image, press the three dots in the right                               Right after you upload the image, you will see a URL.  <br> corner, and choose the "Copy permalink" option.                                                    After copying the URL, you can close the tab. 
 
- ## Step 3
+ ## Step 3:
   *Fill the code :*
 ```
 <a href="URL that you want to be redirected to when clicked (optional)" rel="nofollow">
