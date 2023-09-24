@@ -4,7 +4,7 @@ Enter the "issues" tab. Click "New issue" then upload your image by drag and dro
 ## Step 1 for the "repository" way:
 Create a public "repository" then click on the uploaded image, press the three dots in the right corner, and choose the "Copy permalink" option.  
 
-## Step 3:
+## Step 2 (common):
 *Fill the code :*
 ```
 <a href="URL that you want to be redirected to when clicked (optional)" rel="nofollow">
