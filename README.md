@@ -5,7 +5,7 @@ Enter the "issues" tab. Click "New issue" then upload your image by drag and dro
 Create a public "repository" then click on the uploaded image, press the three dots in the right corner, and choose the "Copy permalink" option.  
 
 ## Step 2 (common):
-*Fill the code :*
+*Fill the code ;*
 ```
 <a href="URL that you want to be redirected to when clicked (optional)" rel="nofollow">
 <img alt="" src="URL of your image uploaded to GitHub" width="130" height="30"> </a>
