@@ -20,7 +20,7 @@ When you paste this code to the "README.md". It will be an image.
    <img src="https://github.com/ccemerdem/badges/blob/d7208268987d70892fc64/v1.2.png" width="130" height="30" >
 </a>
 ```
- *Non clickable :*  <picture> > <img src="https://github.com/ccemerdem/badges/blob/d7206826c5580e8c94ef94887d7058b49892fc64/v1.3.png" width="130" height="30" > </picture>
+ *Non-clickable :*  <picture> > <img src="https://github.com/ccemerdem/badges/blob/d7206826c5580e8c94ef94887d7058b49892fc64/v1.3.png" width="130" height="30" > </picture>
  
 ```
 <picture> 
