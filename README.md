@@ -1,6 +1,6 @@
 # There is 2 way to create badges; "issue" and "repository"
 ## Step 1 for the "issue" way (recommended):
-Enter the "issues" tab. Click "New issue" then upload your image by drag and drop. Right after the image is uploaded, you will see a URL. <br> After copying the URL, you can close the tab. 
+Enter the "issues" tab. Click "New issue" then upload your image by drag and drop. Right after the image is uploaded, you will see a URL. After copying the URL, you can close the tab. 
 
 ## Step 1 for the "repository" way:
 Create a public "repository" then click on the uploaded image, press the three dots in the right corner, and choose the "Copy permalink" option.  
