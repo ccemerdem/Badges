@@ -22,7 +22,6 @@ If you want to store images in the repository go for the repository way otherwis
 - Replace ```<a> </a>``` sections with ```<picture> </picture>``` for make the image non-clickable.
 - Add ```<div align="center">``` before ```<a>```, ```</div>``` after ```</a>``` for make the image centered.
 
-Lastly, paste this code to the "README.md".  
 # Examples :
 
 *Non-clickable :*                                                    
