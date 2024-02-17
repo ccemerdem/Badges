@@ -1,10 +1,10 @@
 # Step 1
 - ## If you want to store images in the repository :
-  - Upload the image to the repository (You can use your current project's repository or create a new public repository for storing the image). 
-  - Click on the uploaded image, press the three dots in the right corner, and choose the "Copy permalink" option. In this way, you can access the image whenever you want.
+  - Upload the image to any repository (You can use your current project's repository). 
+  - Click on the uploaded image, press the three dots in the right corner, and choose the ```Copy permalink``` option. <br>  *In this way, you can access the image whenever you want*.
 
 - ## If you don't want to store images :
-  - Enter the README.MD edit page. Then upload your image by drag and drop. 
+  - Enter the ```README.MD``` edit page. Then upload your image by drag and drop. 
   - Right after the image is uploaded, you will see a URL. Copy the URL.
 
 # Step 2 (common) :
@@ -14,10 +14,10 @@
    <img  src="URL of your image uploaded to GitHub" width="130" height="30"> 
 </a>
 ```
-- Remove width and height sections for the original image size. <br>
-- Remove href section for the redirect to the image's full-size view. <br>
-- Replace ```<a> </a>``` sections with ```<picture> </picture>``` for make the image non-clickable.
-- Add ```<div align="center">``` before ```<a>```, ```</div>``` after ```</a>``` for make the image centered.
+   - Remove ```width``` and ```height``` sections for the original image size. <br>
+   - Remove ```href``` section for the redirect to the image's full-size view. <br>
+   - Replace ```<a> </a>``` sections with ```<picture> </picture>``` for make the image non-clickable.
+   - Add ```<div align="center">``` before ```<a>```, ```</div>``` after ```</a>``` for make the image centered.
 
 # Examples :
 
