@@ -1,1 +1,2 @@
-*.sol linguist-language=HTML
+example/* linguist-vendored
+* linguist-language=HTML
