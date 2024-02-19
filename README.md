@@ -1,13 +1,16 @@
-# Step 1
-- ## If you want to store images in the repository :
+# Info
+A way to add custom badges to your GitHub. Also **Compatible with all types of media files** 
+## Step 1
+
+- ### If you want to store media in the repository :
   - Upload the image to any repository (You can use your current project's repository). 
   - Click on the uploaded image, press the three dots in the right corner, and choose the ```Copy permalink``` option. <br>  *In this way, you can access the image whenever you want*.
 
-- ## If you don't want to store images :
+- ### If you don't want to store images :
   - Enter the ```README.MD``` edit page. Then upload your image by drag and drop. 
   - Right after the image is uploaded, you will see a URL. Copy the URL.
 
-# Step 2 (common) :
+## Step 2 (common) :
 *Fill the code and paste it to the "README.md" ;*
 ```
 <a href="URL that you want to be redirected to when clicked (optional)" >
@@ -19,7 +22,7 @@
    - Replace ```<a> </a>``` sections with ```<picture> </picture>``` for make the image non-clickable.
    - Add ```<div align="center">``` before ```<a>```, ```</div>``` after ```</a>``` for make the image centered.
 
-# Examples :
+## Examples :
 
 *Non-clickable :*                                                    
 <picture> > <img src="https://github.com/ccemerdem/badges/blob/d7206826c5580e8c94ef94887d7058b49892fc64/v1.3.png" width="130" height="30" > </picture>
@@ -51,7 +54,7 @@
 
 
 
-# Reference Images :
+## Reference Images :
 
 <a  href="https://codescene.com/" >
     <img  src="https://github.com/ccemerdem/badges/blob/d7206826c5580e8c94ef94887d7058b49892fc64/v1.1.png"width="399" height="92" > </a>
