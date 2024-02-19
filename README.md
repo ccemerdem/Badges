@@ -2,7 +2,7 @@
 A way to add custom badges to your GitHub. Also **Compatible with all types of media files** 
 ## Step 1
 
-- ### If you want to store media in the repository :
+- ### If you want to store images in the repository :
   - Upload the image to any repository (You can use your current project's repository). 
   - Click on the uploaded image, press the three dots in the right corner, and choose the ```Copy permalink``` option. <br>  *In this way, you can access the image whenever you want*.
 
