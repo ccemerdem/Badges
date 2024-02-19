@@ -1,5 +1,5 @@
 # Info
-A way to add custom badges to your GitHub. Also **Compatible with all types of media files** 
+A guide for adding custom badges to the GitHub profile by using HTML and CSS. Also **Compatible with all types of media files** 
 ## Step 1
 
 - ### If you want to store images in the repository :
