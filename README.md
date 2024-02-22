@@ -20,7 +20,7 @@ A guide for adding custom badges to the GitHub profile by using HTML. Also **Com
    - Remove ```width``` and ```height``` sections for the original image size. <br>
    - Remove ```href``` section for the redirect to the image's full-size view. <br>
    - Replace ```<a> </a>``` sections with ```<picture> </picture>``` for make the image non-clickable.
-   - Add ```<div align="center">``` before ```<a>```, ```</div>``` after ```</a>``` for make the image centered.
+   - Add ```<p align="center">``` before ```<a>```, ```</p>``` after ```</a>``` for make the image centered.
 
 ## Examples :
 
