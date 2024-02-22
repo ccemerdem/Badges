@@ -1,5 +1,5 @@
 # Info
-A guide for adding custom badges to the GitHub profile by using HTML and CSS. Also **Compatible with all types of media files** 
+A guide for adding custom badges to the GitHub profile by using HTML. Also **Compatible with all types of media files** 
 ## Step 1
 
 - ### If you want to store images in the repository :
@@ -7,7 +7,7 @@ A guide for adding custom badges to the GitHub profile by using HTML and CSS. Al
   - Click on the uploaded image, press the three dots in the right corner, and choose the ```Copy permalink``` option. <br>  *In this way, you can access the image whenever you want*.
 
 - ### If you don't want to store images :
-  - Enter the ```README.MD``` edit page. Then upload your image by drag and drop. 
+  - Enter the ```README.MD``` edit page. Then, upload your image by drag and drop. 
   - Right after the image is uploaded, you will see a URL. Copy the URL.
 
 ## Step 2 (common) :
